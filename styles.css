@@ -96,14 +96,14 @@ dl dd{
     font-size:14pt;
 }
 
-dl dl{
+.sem-section dl dl{
     margin:10px 0 0 70px;
     background-color:#404e3b;
     color:#bac8b1;
     padding:10px;
 }
 
-dl dl dd{
+.sem-section dl dl dd{
     margin-left:90px;
 }
 
