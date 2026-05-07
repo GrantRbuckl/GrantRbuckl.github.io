@@ -21,6 +21,8 @@ nav{
     display:flex;
     justify-content:space-between;
     gap:30px;
+    margin-bottom:20px;
+    font-size:1.4rem;
 }
 
 #nav-container{
@@ -135,6 +137,8 @@ dl dd{
     width:150px;
 }
 
+
+
 /* ########################### FOOTER */
 footer{
     margin:50px 0 30px 350px;
@@ -150,4 +154,33 @@ footer p a{
 
 #contact-me{
     margin-left:80px;
+}
+
+.challenge-section{
+    background-color:#7b9669;
+    color: #404e3b;
+    padding:10px;
+}
+
+.challenge-section h2{
+    color:ivory;
+    text-decoration:underline;
+    font-size:xx-large
+
+}
+
+.sem-section h2, .sem-section p{
+    color:ivory;
+    padding-left:20px;
+}
+
+.sem-section h2{
+    text-decoration:underline;
+    font-size:xx-large
+}
+
+
+/* FUTURE SCREEN #################### */
+.indent{
+    padding-left:30px;
 }
