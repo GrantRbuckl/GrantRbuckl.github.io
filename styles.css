@@ -1,4 +1,4 @@
-@media (max-width:89mm){ /*Phone*/
+@media screen (max-width:700px){ /*Phone*/
         
     body{
         background-color:#bac8b1;
@@ -220,7 +220,7 @@
 }
 
 
-@media (min-width:90mm){ /*Desktop*/
+@media screen (min-width:701px){ /*Desktop*/
         
     body{
         background-color:#bac8b1;
