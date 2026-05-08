@@ -1,6 +1,6 @@
 @media screen (max-width:700px){
 
-    form{
+    .form-group{
         font-size:30px;
         margin-left:30px;
     }
