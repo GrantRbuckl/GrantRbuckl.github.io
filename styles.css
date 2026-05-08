@@ -208,8 +208,8 @@
     ul li{
         padding-bottom:15px;
     }
-    form{
-        font-size:25;
+    form label, form input{
+        font-size:25px;
     }
 
 
