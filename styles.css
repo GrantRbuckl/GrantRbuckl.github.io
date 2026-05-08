@@ -221,10 +221,6 @@
 
 
 @media screen (min-width:701px){ /*Desktop*/
-        main{
-                margin-left:50px;
-                margin-right:50px;
-        }
         
     body{
         background-color:#bac8b1;
