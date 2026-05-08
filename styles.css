@@ -12,7 +12,7 @@ a{
     text-decoration:none;
     color:#404e3b;
 }
-    a:hover{
+a:hover{
     text-decoration:underline;
     color:#6c8480;
 }
@@ -31,7 +31,6 @@ nav{
     position:sticky;
 }
 
- Mainly for the index page 
 table{
     border: 4px solid #404e3b;
     border-collapse: collapse;
@@ -84,9 +83,6 @@ dl dd{
 
 }
 
- End of index page 
-
- Pretty much for the Projects page 
 .sem-section dl dt{
     padding-left:20px;
     padding-top:20px;
@@ -138,8 +134,6 @@ dl dd{
 }
 
 
-
- ########################### FOOTER 
 footer{
     margin:50px 0 30px 350px;
     color:#51574D;
@@ -179,8 +173,6 @@ footer p a{
     font-size:xx-large
 }
 
-
- FUTURE SCREEN #################### 
 .indent{
     padding-left:30px;
 }
